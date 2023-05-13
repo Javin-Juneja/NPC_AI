@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/junej/Desktop/Locomotion testing/NPC_Follow/Content/AI/Blueprint/NPC_BP.uasset",
+				"C:/Users/junej/Desktop/Locomotion testing/NPC_Follow/Content/AI/Blueprint/NPC_AIController.uasset",
+				"C:/Users/junej/Desktop/Locomotion testing/NPC_Follow/Content/AI/Blueprint/NPC_BT.uasset",
+				"C:/Users/junej/Desktop/Locomotion testing/NPC_Follow/Content/AI/Blueprint/NPC_BB.uasset",
+				"C:/Users/junej/Desktop/Locomotion testing/NPC_Follow/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/J7/568JTQ7GI8CZFU37155HUM.uasset",
+				"C:/Users/junej/Desktop/Locomotion testing/NPC_Follow/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/UI/NL3PD0JG2G558XORVNMBS5.uasset",
+				"C:/Users/junej/Desktop/Locomotion testing/NPC_Follow/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/34/CLJO3LQNHGT5GKA2C55DCD.uasset",
+				"C:/Users/junej/Desktop/Locomotion testing/NPC_Follow/Content/AI/Blueprint/BT_Task/BTask_FindRandomLocation.uasset",
+				"C:/Users/junej/Desktop/Locomotion testing/NPC_Follow/Content/AI/Blueprint/BT_Task/BTask_ChasePlayer.uasset",
+				"C:/Users/junej/Desktop/Locomotion testing/NPC_Follow/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/junej/Desktop/Locomotion testing/NPC_Follow/Content/AI/Blueprint/BT_Task/BTask_.uasset",
+				"C:/Users/junej/Desktop/Locomotion testing/NPC_Follow/Content/AI/Blueprint/BT_Task/BTask_FindPlayerLoc.uasset",
+				"C:/Users/junej/Desktop/Locomotion testing/NPC_Follow/Content/AI/NPC_BP.uasset",
+				"C:/Users/junej/Desktop/Locomotion testing/NPC_Follow/Content/AI/Blueprint/BT_Task/BTTask_BlueprintBase_Move.uasset",
+				"C:/Users/junej/Desktop/Locomotion testing/NPC_Follow/Content/AI/Blueprint/BT_Task/FindRandomLocation_BTeask.uasset",
+				"C:/Users/junej/Desktop/Locomotion testing/NPC_Follow/Content/AI/Blueprint/BT_Task/FindRandomLocation_BTask.uasset"
+			]
+		}
+	]
+}
