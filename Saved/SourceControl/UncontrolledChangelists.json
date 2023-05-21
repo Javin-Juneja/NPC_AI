@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"J:/Productivity/UE/NPC_AI/Content/AI/Blueprint/NPC_BP.uasset",
+				"J:/Productivity/UE/NPC_AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/J7/568JTQ7GI8CZFU37155HUM.uasset",
+				"J:/Productivity/UE/NPC_AI/Content/AI/Blueprint/NPC_BT.uasset",
 				"J:/Productivity/UE/NPC_AI/Content/TEMP/Characters/MotionMatching/TestMotionData.uasset",
 				"J:/Productivity/UE/NPC_AI/Content/TEMP/Characters/MotionMatching/Strafe_MultiClustering.uasset",
 				"J:/Productivity/UE/NPC_AI/Content/TEMP/Characters/MotionMatching/Run_MultiClustering.uasset",
